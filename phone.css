@@ -1,0 +1,28 @@
+
+.brand-name{
+    font-size: 1.5rem;
+}
+
+
+
+.about-content h2 span{
+    display: none;
+}
+blockquote{
+    margin: 40px 0, 0 40px;
+}
+.container .sec-one-left {
+    padding: 50px;
+    flex-wrap: wrap;
+}
+.container .sec-one-right{
+    padding: 50px;
+    
+}
+form{
+    display: inline-block;
+    
+}
+.footer .menu li a{
+    font-size: 1.3rem;
+}
